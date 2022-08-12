@@ -46,9 +46,9 @@ global.upsongvoice = "true" // bot can upload song as voice note (it use your da
 
 global.owner = ['+94774077741']
 global.ownertag = '+94774077741' //your tag number
-global.botname = '♥️ʀͥᴇᷧᴀͫʟS͠A͠N͠U͠˒⃠🇱🇰⃟́͋˛᳆⃞⃚😚 - 𝘉𝘖𝘛' //ur bot name
+global.botname = '𝚁𝙴𝙳 - 𝙳𝚁𝙰𝙶𝙾𝙽 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "♥️ꪑꪹ.SANU😊♥️" // sticker author
+global.author = "ꪑꪹ.SANU😊♥️" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
@@ -56,7 +56,7 @@ global.button = '☰ ꪮꪊꪹ ᦋꪹꪮꪊᩏ ☰' //Costomize A Button Name In
 global.btnurl = 'https://chat.whatsapp.com/HN6TQla0cIsGmR9MBVScZE' //Change Your Button's URL
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94774077741'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
